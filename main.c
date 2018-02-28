@@ -6,10 +6,10 @@
 int main()
 {
 
-    int varsta=24,greutate=85,inaltime=185;
-    if(inaltime < 190 && varsta < 20)
+    int varsta=24,inaltime=185;
+    if(inaltime > 180 && varsta < 20)
     {
-        puts("Your fucked fat boy");
+        puts("Your not good");
     }
     else
         puts("Your cool");
